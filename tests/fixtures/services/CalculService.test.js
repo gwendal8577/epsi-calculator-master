@@ -1,6 +1,5 @@
 const assert = require('assert');
 const sinon = require('sinon');
-const CalculService = require('../../../api/services/CalculService');
 
 describe('CalculService', () => {
 

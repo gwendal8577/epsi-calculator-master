@@ -1,7 +1,6 @@
-const CalculService = require('./CalculService');
 module.exports = {
-
   addition : (a, b) => {
+
     return a+b;
   },
 
